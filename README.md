@@ -29,7 +29,7 @@ SmartStudy is an Android App which will help everyone to manage time and organis
 
 <img src="./images/main_page.png" data-canonical-src="./images/main_page.png" width="183" height="340"/>
 
-All these features work together with SQlite database.
+- All these features work together with SQlite database.
 
 ## Technologies
 App was created with:
